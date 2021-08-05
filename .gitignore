@@ -1,2 +1,2 @@
-*.gittatributes
-*.DS_Store
+/.DS_Store
+/.gitattributes
