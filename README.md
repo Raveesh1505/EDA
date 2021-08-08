@@ -4,7 +4,7 @@ This repository consists of EDAs performed on various datasets provided by [Kagg
 
 ## Table of Contents
 
-- [Guide](# Guide)
+- [ Guide ](#Guide)
 - [Formula 1 EDA](# Formula 1 EDA)
 - [COVID Vaccination India EDA](# COVID Vaccination India EDA)
 
