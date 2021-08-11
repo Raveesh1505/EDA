@@ -59,7 +59,7 @@ Queries covered in this notebook:
 
 ___
 
-# SARS outbreak of 2003 EDA
+# [SARS outbreak of 2003 EDA](https://github.com/Raveesh1505/EDA/tree/main/SARS%202003)
 
 Queries covered in this notebook:
 
