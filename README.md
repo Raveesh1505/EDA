@@ -5,9 +5,9 @@ This repository consists of EDAs performed on various datasets provided by [Kagg
 ## Table of Contents
 
 - [**Guide**](#Guide)
-- [**Formula 1 EDA**](#Formul-1-EDA)
-- [**COVID Vaccination India EDA**](#COVID-Vaccination-India-EDA)
-
+- [**Formula 1 EDA**](#formula-1-eda)
+- [**SARS outbreak of 2003 EDA**](#sars-outbreak-of-2003-eda)
+- [**COVID Vaccination India EDA**](#covid-vaccination-india-eda)
 ___
 
 ## Guide
@@ -26,9 +26,11 @@ ___
 
 ___
 
+
 ## [Formula 1 EDA](https://github.com/Raveesh1505/EDA/tree/main/Formula%201)
 
-Queries covered in this notebook:
+**Category:** Sports
+**Queries covered in this notebook:**
 
 1. Finding locations that hosted maximum number of race
 2. Finding circuits that hosted opening races
@@ -46,7 +48,8 @@ ___
 
 ## [COVID Vaccination India EDA](https://github.com/Raveesh1505/EDA/tree/main/COVID-Vaccination-India)
 
-Queries covered in this notebook:
+**Category:** Medical
+**Queries covered in this notebook:**
 
 1. **Editing of data in table:** Changing name of a state
 2. **Visualization:**
@@ -61,7 +64,9 @@ ___
 
 # [SARS outbreak of 2003 EDA](https://github.com/Raveesh1505/EDA/tree/main/SARS%202003)
 
-Queries covered in this notebook:
+
+**Category:** Medical
+**Queries covered in this notebook:**
 
 1. Cases in each country
 2. Plotting graph of cases in each country
