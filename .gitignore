@@ -130,5 +130,5 @@ dmypy.json
 
 # More
 .DS_Store
-.vscode
+.vscode/settings.json
 .DS_Store
