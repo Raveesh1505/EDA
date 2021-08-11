@@ -8,6 +8,8 @@ This repository consists of EDAs performed on various datasets provided by [Kagg
 - [**Formula 1 EDA**](#Formul-1-EDA)
 - [**COVID Vaccination India EDA**](#COVID-Vaccination-India-EDA)
 
+___
+
 ## Guide
 
 -> Each folder is divided into an organised manner to avoid confusion. Have a look at all the contents of the folder:
@@ -22,7 +24,9 @@ This repository consists of EDAs performed on various datasets provided by [Kagg
 | **File:** .db | The .db file contains the database created with SQLITE.|
 | **File:** .ipynb | It is the Jupyter Notebook file in which the EDA has been pperformed.|
 
-## Formula 1 EDA
+___
+
+## [Formula 1 EDA](https://github.com/Raveesh1505/EDA/tree/main/Formula%201)
 
 Queries covered in this notebook:
 
@@ -38,7 +42,9 @@ Queries covered in this notebook:
 10. Finding the fastest quali times on every circuit for pole position
 11. Drivers who have won atleast one race
 
-## COVID Vaccination India EDA
+___
+
+## [COVID Vaccination India EDA](https://github.com/Raveesh1505/EDA/tree/main/COVID-Vaccination-India)
 
 Queries covered in this notebook:
 
@@ -50,3 +56,22 @@ Queries covered in this notebook:
     d. Ordering and visualising the states with vaccinated population less than national average.
     e. Finding the population vacinated with dose 1 but not dose 2.
     f. Total vaccination in every state (pie chart)
+
+___
+
+# SARS outbreak of 2003 EDA
+
+Queries covered in this notebook:
+
+1. Cases in each country
+2. Plotting graph of cases in each country
+3. Cases graph w.r.t time
+4. Cases graph w.r.t time and country
+5. Plotting chart for Death Reported in Countries
+6. Deaths graph w.r.t time
+7. Deaths graph w.r.t time and country
+8. Probable first reported case
+9. Probable last reported case
+10. Time taken by countries to erradicate SARS from their territory
+11. Recoveries graph w.r.t time
+12. Recoveries graph w.r.t time and country
