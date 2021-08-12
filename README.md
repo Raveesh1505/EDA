@@ -1,14 +1,11 @@
 # Exploratory Data Analysis
 
-This repository consists of EDAs performed on various datasets provided by [Kaggle](https://www.kaggle.com).
-
 ## Table of Contents
 
 - [**Guide**](#Guide)
-- [**Formula 1 EDA**](#formula-1-eda)
-- [**SARS outbreak of 2003 EDA**](#sars-outbreak-of-2003-eda)
-- [**COVID Vaccination India EDA**](#covid-vaccination-india-eda)
-- [**America's top college 2019**](#america's-top-college-2019)
+- [**Resources**](#resources)
+- [**EDAs**](#edas)
+- [**Running the notebook**](#covid-vaccination-india-eda)
 ___
 
 ## Guide
@@ -27,79 +24,32 @@ ___
 
 ___
 
+## Resources
 
-## [Formula 1 EDA](https://github.com/Raveesh1505/EDA/tree/main/Formula%201)
-
-**Category:** Sports
-
-**Queries covered in this notebook:**
-
-1. Finding locations that hosted maximum number of race
-2. Finding circuits that hosted opening races
-3. Number of races hosted by every country
-4. All time constructor points and leaders
-5. Number of races organized per season
-6. Comparison of all time top 10 teams (based on points and races won)
-7. Number of races won by top 10 drivers
-8. Finding the fastest laps on each circuit
-9. Number of constructors from each country
-10. Finding the fastest quali times on every circuit for pole position
-11. Drivers who have won atleast one race
+1. [**Kaggle:**](https://www.kaggle.com) Free datsets and more!
+2. [**Jupyter Notebooks:**](https://jupyter.org) Jupyter Notebooks are an open document format based on JSON.
+3. [**Python:**](https://www.python.org) Python is an interpreted high-level general-purpose programming language.
+4. [**About SQL:**](https://en.wikipedia.org/wiki/SQL) SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system.
 
 ___
 
-## [COVID Vaccination India EDA](https://github.com/Raveesh1505/EDA/tree/main/COVID-Vaccination-India)
+## EDAs
 
-**Category:** Medical
-
-**Queries covered in this notebook:**
-
-1. **Editing of data in table:** Changing name of a state
-2. **Visualization:**
-    a. Total vaccination in every state
-    b. Data debrief
-    c. Ordering and visualizing the states with more than national average vaccination.
-    d. Ordering and visualising the states with vaccinated population less than national average.
-    e. Finding the population vacinated with dose 1 but not dose 2.
-    f. Total vaccination in every state (pie chart)
+| S.NO | EDA | Type | Dataset | Brief |
+| --- | --- | --- | --- | --- |
+| 1. | [Formula 1](https://github.com/Raveesh1505/EDA/tree/main/Formula%201) | Sports | [Kaggle Dataset](https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020) | Exploratory Data Analysis performed on the pinacle of motorsport, Formual 1! The notebook consists of comparison and analysis of stats of various teams and drivers in the sport since it's begining in 1950! |
+| 2. | [COVID Vaccination India](https://github.com/Raveesh1505/EDA/tree/main/COVID-Vaccination-India) | Medical | | Exploratory Data Analysis performed on the COVID vaccination stats of India. The notebook consists of comparison and analysis of data like rate of vaccinataion in different states and much more! |
+| 3. | [SARS outbreak of 2003](https://github.com/Raveesh1505/EDA/tree/main/SARS%202003) | Medical | [Kaggle Dataset](https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset) | Exploratory Data Analysis perfomed on data of SARS outbreak of the year 2003. The notebook consists of analysis and visualtion on the various corners of the outbreak! |
+| 4. | [America's top college 2019](https://github.com/Raveesh1505/EDA/tree/main/America's%20Top%20College%202019) | Study | [Kaggle Dataset](https://www.kaggle.com/chris95cam/forbes-americas-top-colleges-2019) | Exploratory Data Analysis performed on data of America's top college of 2019 ranked by Forbes! The notebook consists of analysis and comparison mostly pondering upon public vs private institutions! |
 
 ___
 
-# [SARS outbreak of 2003 EDA](https://github.com/Raveesh1505/EDA/tree/main/SARS%202003)
+## Running the notebook
 
+1. **Using IDEs:** You can run the Jupyter Notebook *(.ipynb file)* by simply installing the Jupyter Notebook package and running it in your IDE.
 
-**Category:** Medical
+2. **Using Jupyter Labs (Binder):** You can also run the Jupyter notebook using the [**Binder**](https://mybinder.org) online for free.
 
-**Queries covered in this notebook:**
+3. **Using Kaggle:** You can run the Jupyter notebook by uploading it on kaggle and simply running. 
 
-1. Cases in each country
-2. Plotting graph of cases in each country
-3. Cases graph w.r.t time
-4. Cases graph w.r.t time and country
-5. Plotting chart for Death Reported in Countries
-6. Deaths graph w.r.t time
-7. Deaths graph w.r.t time and country
-8. Probable first reported case
-9. Probable last reported case
-10. Time taken by countries to erradicate SARS from their territory
-11. Recoveries graph w.r.t time
-12. Recoveries graph w.r.t time and country
-
-___
-
-# [America's top college 2019](https://github.com/Raveesh1505/EDA/tree/main/America's%20Top%20College%202019)
-
-**Category:** Social
-
-**Querries covered in this notebook:**
-
-1. Number of colleges public vs private
-2. Average cost of study public vs private
-3. States with maximum number of colleges
-4. Average acceptance rate public vs private
-5. Average alumni salary public vs private
-6. Student population public vs private
-7. Student population public vs private
-8. Average minimum required SAT score for admission public vs private
-9. Average aid grant public vs private
-10. Student vs college rank (concentration of students)
+[***You can find more methods to run Jupyter Notebook on cloud here.***](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#1binder)
