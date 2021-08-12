@@ -8,6 +8,7 @@ This repository consists of EDAs performed on various datasets provided by [Kagg
 - [**Formula 1 EDA**](#formula-1-eda)
 - [**SARS outbreak of 2003 EDA**](#sars-outbreak-of-2003-eda)
 - [**COVID Vaccination India EDA**](#covid-vaccination-india-eda)
+- [**America's top college 2019**](#america's-top-college-2019)
 ___
 
 ## Guide
@@ -30,6 +31,7 @@ ___
 ## [Formula 1 EDA](https://github.com/Raveesh1505/EDA/tree/main/Formula%201)
 
 **Category:** Sports
+
 **Queries covered in this notebook:**
 
 1. Finding locations that hosted maximum number of race
@@ -49,6 +51,7 @@ ___
 ## [COVID Vaccination India EDA](https://github.com/Raveesh1505/EDA/tree/main/COVID-Vaccination-India)
 
 **Category:** Medical
+
 **Queries covered in this notebook:**
 
 1. **Editing of data in table:** Changing name of a state
@@ -66,6 +69,7 @@ ___
 
 
 **Category:** Medical
+
 **Queries covered in this notebook:**
 
 1. Cases in each country
@@ -80,3 +84,22 @@ ___
 10. Time taken by countries to erradicate SARS from their territory
 11. Recoveries graph w.r.t time
 12. Recoveries graph w.r.t time and country
+
+___
+
+# America's top college 2019
+
+**Category:** Social
+
+**Querries covered in this notebook:**
+
+1. Number of colleges public vs private
+2. Average cost of study public vs private
+3. States with maximum number of colleges
+4. Average acceptance rate public vs private
+5. Average alumni salary public vs private
+6. Student population public vs private
+7. Student population public vs private
+8. Average minimum required SAT score for admission public vs private
+9. Average aid grant public vs private
+10. Student vs college rank (concentration of students)
