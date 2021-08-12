@@ -41,6 +41,7 @@ ___
 | 2. | [COVID Vaccination India](https://github.com/Raveesh1505/EDA/tree/main/COVID-Vaccination-India) | Medical | | Exploratory Data Analysis performed on the COVID vaccination stats of India. The notebook consists of comparison and analysis of data like rate of vaccinataion in different states and much more! |
 | 3. | [SARS outbreak of 2003](https://github.com/Raveesh1505/EDA/tree/main/SARS%202003) | Medical | [Kaggle Dataset](https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset) | Exploratory Data Analysis perfomed on data of SARS outbreak of the year 2003. The notebook consists of analysis and visualtion on the various corners of the outbreak! |
 | 4. | [America's top college 2019](https://github.com/Raveesh1505/EDA/tree/main/America's%20Top%20College%202019) | Study | [Kaggle Dataset](https://www.kaggle.com/chris95cam/forbes-americas-top-colleges-2019) | Exploratory Data Analysis performed on data of America's top college of 2019 ranked by Forbes! The notebook consists of analysis and comparison mostly pondering upon public vs private institutions! |
+| 5. | [Australian Population (1980-2020) EDA](https://github.com/Raveesh1505/EDA/tree/main/Australia%20Population) | Social | [Kaggle Dataset](https://www.kaggle.com/berkayalan/australia-population-births-and-deaths) | Exploratory Data Analysis performed on data of Australian population (1980-2020). this notebook consists of analysis and visualization on various factors of Australian population from 1980 to 2020. |
 
 ___
 
